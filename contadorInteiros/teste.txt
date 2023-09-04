@@ -1,3 +1,0 @@
-1 2 oi  
-34 abc
-56 teste
